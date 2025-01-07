@@ -1,0 +1,45 @@
+---
+title: New in CSS
+description: CSS new features you need to know
+date : 07-01-2025
+---
+
+# 🎉 What is new iS CSS
+
+New features were added to CSS last year. Most of them are supported by all major browsers and baseline available.
+[Visit chrome.dev for full details](https://chrome.dev/css-wrapped-2024/)
+
+Below are what caught my eyes.
+## 1.Field-sizing
+  > This setting allows inputs, textarea, select elements to grow with content within them as user types or selects.The element's size gets adapted to the content they have.
+```css
+textarea, select, input {
+  field-sizing: content;
+}
+```
+## 2. Stylable `details` tag
+ > The `details` tag now can be styled. `::details-content` pseudo-element can be used to style `details` tag. 
+ ```css
+ details {
+  display: flex;
+  flex-direction: row;
+}
+```
+## 3. `scrollbar-color` and `scrollbar-width`
+> We can now style scrollbar color and width.
+```css
+.scroller {
+  scrollbar-color: hotpink blue;
+  scrollbar-width: 10%;
+}
+```
+## 4. Popover API
+> You can now create popovers ,menus, info boxes without Javascript or z-index headache with just CSS.Just add id of popover element to popovertarget property of button.
+```html
+<button popovertarget="my-popover">Open Popover</button>
+<div id="my-popover" popover>
+  <p><p>I am a popover with more information. Hit <kbd>esc</kbd> or click away to close me.<p></p>
+</div>
+```
+That's for now. Have a good day 
+

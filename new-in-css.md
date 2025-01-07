@@ -4,14 +4,15 @@ description: CSS new features you need to know
 date : 07-01-2025
 ---
 
-# 🎉 What is new iS CSS
+# 🎉 What is new in CSS
 
-New features were added to CSS last year. Most of them are supported by all major browsers and baseline available.
+CSS added new features last year. Most of them are supported by all major browsers and baseline available.
+
 [Visit chrome.dev for full details](https://chrome.dev/css-wrapped-2024/)
 
-Below are what caught my eyes.
+Below are what usefull for every UI developer.
 ## 1.Field-sizing
-  > This setting allows inputs, textarea, select elements to grow with content within them as user types or selects.The element's size gets adapted to the content they have.
+  > This setting allows `inputs, textarea, select` elements to grow with content within them as user types or selects.The element's size gets adapted to the content they have.
 ```css
 textarea, select, input {
   field-sizing: content;
@@ -34,7 +35,7 @@ textarea, select, input {
 }
 ```
 ## 4. Popover API
-> You can now create popovers ,menus, info boxes without Javascript or z-index headache with just CSS.Just add id of popover element to popovertarget property of button.
+> You can now create popovers ,menus, info boxes without Javascript or z-index headache with just CSS.Just add id of popover element to popovertarget property of button and see the majic without javascript.
 ```html
 <button popovertarget="my-popover">Open Popover</button>
 <div id="my-popover" popover>

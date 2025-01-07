@@ -10,7 +10,7 @@ CSS added new features last year. Most of them are supported by all major browse
 
 [Visit chrome.dev for full details](https://chrome.dev/css-wrapped-2024/)
 
-Below are what usefull for every UI developer.
+Below are what I thought usefull for UI developer.
 ## 1.Field-sizing
   > This setting allows `inputs, textarea, select` elements to grow with content within them as user types or selects.The element's size gets adapted to the content they have.
 ```css

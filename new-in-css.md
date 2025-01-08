@@ -1,11 +1,16 @@
 ---
 title: New in CSS
 description: CSS new features you need to know
-date : 07-01-2025
+date : 07-01-202
+reading: 2 MIN
+author: krishna Gita
 ---
 
 # 🎉 What is new in CSS
-
+ 
+  <small> Author: *Krishna Gita* Updated on: 08-01-2025 </small>
+  
+ ---
 CSS added new features last year. Most of them are supported by all major browsers and baseline available.
 
 [Visit chrome.dev for full details](https://chrome.dev/css-wrapped-2024/)

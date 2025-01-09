@@ -8,7 +8,7 @@ author: krishna Gita
 
 # 🎉 What is new in CSS
  
-  <small> Author: *Krishna Gita* Updated on: 08-01-2025  Reading time:2 MIN </small>
+  <small> Author: *Krishna Gita* &nbsp; Updated on: 08-01-2025  &nbsp; Reading time:2 MIN </small>
   
  ---
 CSS added new features last year. Most of them are supported by all major browsers and baseline available.

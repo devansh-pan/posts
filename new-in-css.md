@@ -5,12 +5,13 @@ date : 08-01-2025
 reading: 2 MIN
 author: krishna Gita
 tags : [css, web ]
----
 
+---
+<div class="bg-red-200">
 # 🎉 What is new in CSS
  
 <small> Author: *Krishna Gita* &nbsp; Updated on: 08-01-2025  &nbsp; Reading time: 2 MIN </small>
-  
+  </div>
  ---
 CSS added new features last year. Most of them are supported by all major browsers and baseline available.
 

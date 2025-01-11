@@ -7,8 +7,9 @@ author: krishna Gita
 tags : [css, web ]
 ---
 <div class="p-3 m-0 bg-red-200">
-<h1> 🎉 What is new in CSS </h1>
-<br/>
+
+# 🎉 What is new in CSS 
+
 <small> Author: *Krishna Gita* &nbsp; Updated on: 08-01-2025  &nbsp; Reading time: 2 min </small>
  </div>
  

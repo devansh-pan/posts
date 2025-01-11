@@ -5,14 +5,15 @@ date : 08-01-2025
 reading: 2 MIN
 author: krishna Gita
 tags : [css, web ]
-
 ---
-<div class="bg-red-200">
+<div class="p-3 m-0 bg-red-200">
 # 🎉 What is new in CSS
  
 <small> Author: *Krishna Gita* &nbsp; Updated on: 08-01-2025  &nbsp; Reading time: 2 MIN </small>
-  </div>
+ </div>
+ 
  ---
+ 
 CSS added new features last year. Most of them are supported by all major browsers and baseline available.
 
 [Visit chrome.dev for full details](https://chrome.dev/css-wrapped-2024/)

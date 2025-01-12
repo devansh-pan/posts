@@ -2,7 +2,7 @@
 title: New in CSS
 description: CSS new features you need to know
 date : 08-01-2025
-reading: 2 MIN
+reading: 2 min
 author: krishna Gita
 tags : [css, web ]
 ---

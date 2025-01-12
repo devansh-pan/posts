@@ -1,5 +1,5 @@
 ---
-title: New in CSS
+title: What is new in CSS
 description: CSS new features you need to know
 date : 08-01-2025
 reading: 2 min
@@ -7,10 +7,6 @@ author: krishna Gita
 tags : [css, web ]
 ---
 
-
-# 🎉 What is new in CSS 
-
-<small> Author: *Krishna Gita* &nbsp; Updated on: 08-01-2025  &nbsp; Reading time: 2 min </small>
  
  ---
  
